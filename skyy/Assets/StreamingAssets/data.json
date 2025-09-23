@@ -1,0 +1,53 @@
+{
+	"inputType" : 1,
+	
+	"p1_key1": "Alpha1",
+	"p1_key2": "Alpha2",
+	"p1_key3": "Alpha3",
+	
+	"p2_key1": "Alpha4",
+	"p2_key2": "Alpha5",
+	"p2_key3": "Alpha6",
+	
+	"totalQuestions":6,
+	"delayForNextTrivia":2,
+	"delayResponseDone":0.1,
+	"questionDuration":5.03,
+	"gameOverDuration":10,
+	
+	"intro":"¡Atención! Rosita, una simpática rodocrosita, se ha perdido en la mina. La Súper Banda de Minería está tratando de encontrarla, pero necesitan tu ayuda.\n\n¿Podrás asistirlos antes de que se derrumbe todo?",
+	"intro_button": "Empezar",
+	"choose": "Elegir",
+	
+	"intro_title_p1":"Rodolfo",
+	"intro_desc_p1":"Alias: Rodo, El Rosa, Jefe\n\nTipo: Rodocrosita\n\nCaracterísticas: Líder de la banda. Siempre pone las necesidades de los demás por encima de las suyas. Gran compañero, fanático de las empanadas y del mate bien cargado.",	
+	
+	"intro_title_p2":"Carlitios",
+	"intro_desc_p2":"Alias:El pibe, El Rayo\n\nTipo: Litio\n\nCaracterísticas: El más joven de la banda, pero también el más rápido y enérgico. Siempre dispuesto a ayudar. Debilidad por los rosquetes, que según él, son el secreto de su energía.",	
+	
+	"intro_title_p3":"Oriana",
+	"intro_desc_p3":"Alias: Doña Fuerza, La piedra, La T-oro\n\nTipo: Oro\n\nCaracterísticas: La más fuerte de la banda. Jamás deja una tarea incompleta. Debilidad por la humita y los tamales.",	
+	
+	"end_win":"¡Buen trabajo! Llegaste hasta Rosita.",
+	"end_lose":"¡Ups! Mejor suerte la próxima vez.",
+	
+	
+	
+	
+	"intro_en":"Attention! Rosita, a friendly rhodochrosite, is lost in the mine. The Super Mining Band is trying to find her, but they need your help!\n\nCan you assist them before everything collapses?",
+	"intro_button_en": "Start",
+	"choose_en": "Choose",
+	
+	"intro_title_p1_en":"Rodolfo",
+	"intro_desc_p1_en":"Alias: Rodo, El Rosa, Jefe\n\nType: Rodocrosita\n\nCharacteristics: Leader of the gang. Always puts the needs of others above his own. Great companion, fan of empanadas and a strong mate.",	
+	
+	"intro_title_p2_en":"Carlitios",
+	"intro_desc_p2_en":"Alias: El pibe, El Rayo\n\nType: Litio\n\nCharacteristics: The youngest of the gang, but also the fastest and most energetic. Always willing to help. Weakness for rosquetes, which he claims are the secret to his energy.",	
+	
+	"intro_title_p3_en":"Oriana",
+	"intro_desc_p3_en":"Alias: Doña Fuerza, La piedra, La T-oro\n\nType: Oro\n\nCharacteristics: The strongest of the gang. She never leaves a task unfinished. Weakness for humita and tamales.",
+	
+	"end_win_en":"Good job! You got to Rosita.",
+	"end_lose_en":"Oops! Better luck next time."
+	
+}
