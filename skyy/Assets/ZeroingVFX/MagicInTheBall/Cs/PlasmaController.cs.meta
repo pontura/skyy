@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e783e6b61739b6f4a965d5ef14152490
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278432
+  packageName: Magic in the Ball
+  packageVersion: 1.0
+  assetPath: Assets/ZeroingVFX/MagicInTheBall/Cs/PlasmaController.cs
+  uploadId: 674753
