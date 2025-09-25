@@ -517,6 +517,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Background
       objectReference: {fileID: 0}
+    - target: {fileID: 9095450679068764116, guid: 8f8c0095a7021c043a2e5f4b86c33e9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -811,10 +815,6 @@ PrefabInstance:
     - target: {fileID: 6727381168692361874, guid: 2c572883c1e95ad4a97f14b12671fa17, type: 3}
       propertyPath: m_Name
       value: Splash
-      objectReference: {fileID: 0}
-    - target: {fileID: 6727381168692361874, guid: 2c572883c1e95ad4a97f14b12671fa17, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
